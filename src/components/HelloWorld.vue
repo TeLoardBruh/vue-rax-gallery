@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <p class="title-text">Rax Gellery</p>
+    <p class="title-text">Rax Gallery</p>
     <div class="photos-grid">
       <div
         v-for="item in gallery"
